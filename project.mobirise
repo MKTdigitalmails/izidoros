@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 252,
+    "uniqCompNum": 253,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -169,7 +169,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px",
+              "font-size": "48px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -208,7 +208,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#fff"
           },
           "title": "PORTEFÓLIO DE OBRAS",
           "meta": "By John Smith posted July 20, 2016",
@@ -216,7 +216,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-17"
+          "_anchor": "header3-70"
         },
         {
           "_params": {
